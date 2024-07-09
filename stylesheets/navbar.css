@@ -1,0 +1,19 @@
+/* styles/Navbar.css */
+.appBar {
+  height: 80px;
+  background-color: transparent;
+}
+
+.toolbar {
+  height: 100%;
+}
+
+.logoButton {
+  padding: 0;
+}
+
+.navButtons {
+  display: flex;
+  justify-content: flex-start;
+  flex-grow: 1;
+}
